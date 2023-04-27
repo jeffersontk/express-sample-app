@@ -4,52 +4,31 @@
   "products": [
     {
       "id": "doc1",
-      "name": "Geleia",
-      "checkboxName": "checkGeleia",
-      "inputNamePrice": "priceGeleia",
-      "inputNameQuantity": "qntGeleia"
+      "name": "Geleia"
     },
     {
       "id": "doc2",
-      "name": "Creme de avelã",
-      "checkboxName": "checkCremeAvela",
-      "inputNamePrice": "priceCremeAvela",
-      "inputNameQuantity": "qntCremeAvela"
+      "name": "Creme de avelã"
     },
     {
       "id": "doc3",
-      "name": "Doce de leite",
-      "checkboxName": "checkDoceLeite",
-      "inputNamePrice": "priceDoceLeite",
-      "inputNameQuantity": "qntDoceLeite"
+      "name": "Doce de leite"
     },
     {
       "id": "doc4",
-      "name": "Goiabada",
-      "checkboxName": "checkGoiabada",
-      "inputNamePrice": "priceGoiabada",
-      "inputNameQuantity": "qntGoiabada"
+      "name": "Goiabada"
     },
     {
       "id": "doc5",
-      "name": "Chocolate",
-      "checkboxName": "checkChocolate",
-      "inputNamePrice": "priceChocolate",
-      "inputNameQuantity": "qntChocolate"
+      "name": "Chocolate"
     },
     {
       "id": "doc6",
-      "name": "Jujuba",
-      "checkboxName": "checkJujuba",
-      "inputNamePrice": "priceJujuba",
-      "inputNameQuantity": "qntJujuba"
+      "name": "Jujuba"
     },
     {
       "id": "doc7",
-      "name": "Paçoca",
-      "checkboxName": "checkPacoca",
-      "inputNamePrice": "pricePacoca",
-      "inputNameQuantity": "qntPacoca"
+      "name": "Paçoca"
     }
   ]
 }

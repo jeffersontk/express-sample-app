@@ -4,101 +4,59 @@
   "products": [
     {
       "id": "pro1",
-      "name": "Filé de peito de frango",
-      "checkboxName": "checkFilePeitoFrango",
-      "inputNamePrice": "priceFilePeitoFrango",
-      "inputNameQuantity": "qntFilePeitoFrango"
+      "name": "Filé de peito de frango"
     },
     {
       "id": "pro2",
-      "name": "Sobrecoxa",
-      "checkboxName": "checkSobrecoxa",
-      "inputNamePrice": "priceSobrecoxa",
-      "inputNameQuantity": "qntSobrecoxa"
+      "name": "Sobrecoxa"
     },
     {
       "id": "pro3",
-      "name": "Carne",
-      "checkboxName": "checkCarne",
-      "inputNamePrice": "priceCarne",
-      "inputNameQuantity": "qntCarne"
+      "name": "Carne"
     },
     {
       "id": "pro4",
-      "name": "Fígado",
-      "checkboxName": "checkFigado",
-      "inputNamePrice": "priceFigado",
-      "inputNameQuantity": "qntFigado"
+      "name": "Fígado"
     },
     {
       "id": "pro5",
-      "name": "Carne moída",
-      "checkboxName": "checkCarneMoida",
-      "inputNamePrice": "priceCarneMoida",
-      "inputNameQuantity": "qntCarneMoida"
+      "name": "Carne moída"
     },
     {
       "id": "pro6",
-      "name": "Peixe",
-      "checkboxName": "checkPeixe",
-      "inputNamePrice": "pricePeixe",
-      "inputNameQuantity": "qntPeixe"
+      "name": "Peixe"
     },
     {
       "id": "pro7",
-      "name": "Carne de porco",
-      "checkboxName": "checkCarnePorco",
-      "inputNamePrice": "priceCarnePorco",
-      "inputNameQuantity": "qntCarnePorco"
+      "name": "Carne de porco"
     },
     {
       "id": "pro8",
-      "name": "Costelinha",
-      "checkboxName": "checkCostelinha",
-      "inputNamePrice": "priceCostelinha",
-      "inputNameQuantity": "qntCostelinha"
+      "name": "Costelinha"
     },
     {
       "id": "pro9",
-      "name": "Ovo",
-      "checkboxName": "checkOvo",
-      "inputNamePrice": "priceOvo",
-      "inputNameQuantity": "qntOvo"
+      "name": "Ovo"
     },
     {
       "id": "pro10",
-      "name": "Ovo de codorna",
-      "checkboxName": "checkOvoCodorna",
-      "inputNamePrice": "priceOvoCodorna",
-      "inputNameQuantity": "qntOvoCodorna"
+      "name": "Ovo de codorna"
     },
     {
       "id": "pro11",
-      "name": "Carne seca",
-      "checkboxName": "checkCarneSeca",
-      "inputNamePrice": "priceCarneSeca",
-      "inputNameQuantity": "qntCarneSeca"
+      "name": "Carne seca"
     },
     {
       "id": "pro12",
-      "name": "Calabresa",
-      "checkboxName": "checkCalabresa",
-      "inputNamePrice": "priceCalabresa",
-      "inputNameQuantity": "qntCalabresa"
+      "name": "Calabresa"
     },
     {
       "id": "pro13",
-      "name": "Bacon",
-      "checkboxName": "checkBacon",
-      "inputNamePrice": "priceBacon",
-      "inputNameQuantity": "qntBacon"
+      "name": "Bacon"
     },
     {
       "id": "pro14",
-      "name": "Paio",
-      "checkboxName": "checkPaio",
-      "inputNamePrice": "pricePaio",
-      "inputNameQuantity": "qntPaio"
+      "name": "Paio"
     }
   ]
 }

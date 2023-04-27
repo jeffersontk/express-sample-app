@@ -4,52 +4,31 @@
   "products": [
     {
       "id": "desc1",
-      "name": "Filtro de café",
-      "checkboxName": "checkFiltroCafe",
-      "inputNamePrice": "priceFiltroCafe",
-      "inputNameQuantity": "qntFiltroCafe"
+      "name": "Filtro de café"
     },
     {
       "id": "desc2",
-      "name": "Papel toalha",
-      "checkboxName": "checkPapelToalha",
-      "inputNamePrice": "pricePapelToalha",
-      "inputNameQuantity": "qntPapelToalha"
+      "name": "Papel toalha"
     },
     {
       "id": "desc3",
-      "name": "Guardanapo",
-      "checkboxName": "checkGuardanapo",
-      "inputNamePrice": "priceGuardanapo",
-      "inputNameQuantity": "qntGuardanapo"
+      "name": "Guardanapo"
     },
     {
       "id": "desc4",
-      "name": "Papel alumínio",
-      "checkboxName": "checkPapelAlumínio",
-      "inputNamePrice": "pricePapelAlumínio",
-      "inputNameQuantity": "qntPapelAlumínio"
+      "name": "Papel alumínio"
     },
     {
       "id": "desc5",
-      "name": "Papel manteiga",
-      "checkboxName": "checkPapelManteiga",
-      "inputNamePrice": "pricePapelManteiga",
-      "inputNameQuantity": "qntPapelManteiga"
+      "name": "Papel manteiga"
     },
     {
       "id": "desc6",
-      "name": "Papel filme",
-      "checkboxName": "checkPapelFilme",
-      "inputNamePrice": "pricePapelFilme",
-      "inputNameQuantity": "qntPapelFilme"
+      "name": "Papel filme"
     },
     {
       "id": "desc7",
-      "name": "Palito de dente",
-      "checkboxName": "checkPalitoDente",
-      "inputNamePrice": "pricePalitoDente",
-      "inputNameQuantity": "qntPalitoDente"
+      "name": "Palito de dente"
     }
   ]
 }

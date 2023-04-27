@@ -14,12 +14,8 @@ app.get("/", (req, res) => {
   res.send("Choo Choo! Welcome to your Express app 🚅");
 });
 
-app.get("/json", (req, res) => {
-  res.json({ "Choo Choo": "Welcome to your Express app 🚅" });
-});
-
 app.get("/products", (req, res) => {
-  const { category = "grocery", lastId } = req.query;
+  const { category, lastId } = req.query;
 
   const fileName = `${category}.json`;
 
@@ -40,7 +36,7 @@ app.get("/products", (req, res) => {
       );
       startIndex = lastProductIndex + 10;
     }
-    console.log("products", products);
+
     const paginatedProducts = products.slice(startIndex, startIndex + 10);
 
     res.json({ products: paginatedProducts });

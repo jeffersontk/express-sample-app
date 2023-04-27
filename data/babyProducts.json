@@ -4,17 +4,11 @@
   "products": [
     {
       "id": "beb1",
-      "name": "Fralda",
-      "checkboxName": "checkFralda",
-      "inputNamePrice": "priceFralda",
-      "inputNameQuantity": "qntFralda"
+      "name": "Fralda"
     },
     {
       "id": "beb2",
-      "name": "Sabonete de glicerina",
-      "checkboxName": "checkSaboneteGlicerina",
-      "inputNamePrice": "priceSaboneteGlicerina",
-      "inputNameQuantity": "qntSaboneteGlicerina"
+      "name": "Sabonete de glicerina"
     }
   ]
 }

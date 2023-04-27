@@ -4,45 +4,27 @@
   "products": [
     {
       "id": "cong1",
-      "name": "Batata frita",
-      "checkboxName": "checkBatataFrita",
-      "inputNamePrice": "priceBatataFrita",
-      "inputNameQuantity": "qntBatataFrita"
+      "name": "Batata frita"
     },
     {
       "id": "cong2",
-      "name": "Anéis de cebelo",
-      "checkboxName": "checkAnéisCebelo",
-      "inputNamePrice": "priceAnéisCebelo",
-      "inputNameQuantity": "qntAnéisCebelo"
+      "name": "Anéis de cebelo"
     },
     {
       "id": "cong3",
-      "name": "Pizza",
-      "checkboxName": "checkPizza",
-      "inputNamePrice": "pricePizza",
-      "inputNameQuantity": "qntPizza"
+      "name": "Pizza"
     },
     {
       "id": "cong4",
-      "name": "Lasanha",
-      "checkboxName": "checkLasanha",
-      "inputNamePrice": "priceLasanha",
-      "inputNameQuantity": "qntLasanha"
+      "name": "Lasanha"
     },
     {
       "id": "cong5",
-      "name": "Gnochi",
-      "checkboxName": "checkGnochi",
-      "inputNamePrice": "priceGnochi",
-      "inputNameQuantity": "qntGnochi"
+      "name": "Gnochi"
     },
     {
       "id": "cong6",
-      "name": "Massa para pastel",
-      "checkboxName": "checkMassaPastel",
-      "inputNamePrice": "priceMassaPastel",
-      "inputNameQuantity": "qntMassaPastel"
+      "name": "Massa para pastel"
     }
   ]
 }
