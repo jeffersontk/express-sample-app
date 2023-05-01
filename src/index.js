@@ -21,9 +21,8 @@ app.get("/products", (req, res) => {
 
   fs.readFile(`./data/${fileName}`, "utf-8", (err, data) => {
     if (err) {
-      console.log(`erro ao ler arquivo ${fileName}: ${err.message}`);
-      res.sendStatus(500);
-      return;
+      console.error(`Erro ao ler arquivo ${fileName}: ${err.message}`);
+      return res.sendStatus(500);
     }
 
     const jsonData = JSON.parse(data);
@@ -31,10 +30,13 @@ app.get("/products", (req, res) => {
     let startIndex = 0;
 
     if (lastId) {
-      const lastProductIndex = products.findIndex(
-        (product) => product.id === lastId
-      );
-      startIndex = lastProductIndex + 10;
+      const lastProduct = products.find((product) => product.id === lastId);
+
+      if (!lastProduct) {
+        return res.sendStatus(404);
+      }
+
+      startIndex = products.indexOf(lastProduct) + 1;
     }
 
     const paginatedProducts = products.slice(startIndex, startIndex + 10);

@@ -95,10 +95,6 @@
       "name": "Miojo"
     },
     {
-      "id": "mer62",
-      "name": "Cupnoodles"
-    },
-    {
       "id": "mer24",
       "name": "Adoçante"
     },
@@ -249,6 +245,10 @@
     {
       "id": "mer61",
       "name": "Café solúvel"
+    },
+    {
+      "id": "mer62",
+      "name": "Cupnoodles"
     }
   ]
 }
