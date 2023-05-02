@@ -27,7 +27,7 @@ app.get("/products", (req, res) => {
 
     const jsonData = JSON.parse(data);
     const { products } = jsonData;
-    let startIndex = 0;
+    /* let startIndex = 0;
 
     if (lastId) {
       const lastProduct = products.find((product) => product.id === lastId);
@@ -37,11 +37,11 @@ app.get("/products", (req, res) => {
       }
 
       startIndex = products.indexOf(lastProduct) + 1;
-    }
+    } */
 
-    const paginatedProducts = products.slice(startIndex, startIndex + 10);
+    //const paginatedProducts = products.slice(startIndex, startIndex + 10);
 
-    res.json({ products: paginatedProducts });
+    res.json({ products: products });
   });
 });
 
